@@ -1,6 +1,6 @@
 # IoT Workshop v2.0 - refreshed for Oracle Code 2018
 
-## For documentation and instruction, see: <a href="https://github.com/raymondxie/iotws18/wiki">https://github.com/raymondxie/iotws18/wiki</a> ##
+## For documentation and instruction, see: <a href="https://github.com/benscott1994/UKOUGIoT_NODE/wiki">https://github.com/benscott1994/UKOUGIoT_NODE/wiki</a> ##
 
 Main script used for Workshop
 
